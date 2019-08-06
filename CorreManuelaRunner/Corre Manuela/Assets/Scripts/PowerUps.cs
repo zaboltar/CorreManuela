@@ -9,7 +9,7 @@ public class PowerUps : MonoBehaviour
 
     public float powerUpLength;
     private PowerUpManager thePowerUpManager;
-    public Sprite[] powerUpSprites;
+    //public Sprite[] powerUpSprites;
 
 
     // Start is called before the first frame update
@@ -32,7 +32,7 @@ public class PowerUps : MonoBehaviour
 
         }
 
-        GetComponent<SpriteRenderer>().sprite = powerUpSprites[powerUpSelector] ;
+        //GetComponent<SpriteRenderer>().sprite = powerUpSprites[powerUpSelector] ;
     }
 
     // Update is called once per frame
