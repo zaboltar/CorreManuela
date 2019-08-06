@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Proyecto26;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
@@ -86,7 +88,9 @@ public class PlayerController : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D other) {
 		if (other.gameObject.tag == "KillBox") {
-			
+            float highscore = PlayerPrefs.GetFloat("Highscore");
+            UserDataFB user = new UserDataFB("Esen", highscore);
+            RestClient.Post("https://corre-manuela.firebaseio.com/.json", user);
 			theGameManager.RestartGame();
 			moveSpeed = moveSpeedStore;
 			speedMilestoneCount = speedMilestoneCountStore;
