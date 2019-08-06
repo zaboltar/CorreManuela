@@ -1,7 +1,23 @@
 fileFormatVersion: 2
 guid: db1e328b7993915459b799e30f0aff1d
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: con_ropa_0
+    21300002: con_ropa_1
+    21300004: con_ropa_2
+    21300006: con_ropa_3
+    21300008: con_ropa_4
+    21300010: con_ropa_5
+    21300012: con_ropa_6
+    21300014: con_ropa_7
+    21300016: con_ropa_8
+    21300018: con_ropa_9
+    21300020: con_ropa_10
+    21300022: con_ropa_11
+    21300024: con_ropa_12
+    21300026: con_ropa_13
+    21300028: con_ropa_14
+    21300030: con_ropa_15
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -82,7 +98,327 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: con_ropa_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1500
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf7e3490dfb6c449b240da071220a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 240
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640c7a8ad6bc484e8f89affdb348d4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_2
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1500
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d14e0844f87574a93723f8463f07ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1500
+        width: 240
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a158e6f45d1d5429f2fe14fd966246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1050
+        width: 240
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866952c65b60c745b8a74ad1b786091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1050
+        width: 240
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315cb9540b3d53408ac29359554b39d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1050
+        width: 240
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da4e67e3a35de64d92c07ff2aaac3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1050
+        width: 225
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063fd01c589b86f45b274bfffe5fdb8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 570
+        width: 255
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fab008343fbae4eb2c5af86357a3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 570
+        width: 255
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f296313a1114e04c83b78fcefd08492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 570
+        width: 255
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d086524281286439438420b57f527f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 570
+        width: 255
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd30c1206b529f4f87c386a00e452ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 90
+        width: 255
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca755e55f51446c469fc0f55cd1aee01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 90
+        width: 255
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a386e26a5af7145bc8571557d3c906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 90
+        width: 255
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f475f8aab7cd1940b90feafebcbb14e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: con_ropa_15
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 90
+        width: 255
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d531530931b5b4f9208c9f743d5e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,15 @@
 fileFormatVersion: 2
 guid: 64a94cc1c02d2d9428de44bd3ea3d8e9
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: ReptarDeLado_0
+    21300002: ReptarDeLado_1
+    21300004: ReptarDeLado_2
+    21300006: ReptarDeLado_3
+    21300008: ReptarDeLado_4
+    21300010: ReptarDeLado_5
+    21300012: ReptarDeLado_6
+    21300014: ReptarDeLado_7
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -82,7 +90,167 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ReptarDeLado_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 699
+        width: 222
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c980fc37f2b5914093e046db3e3fa20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 699
+        width: 232
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a8b9c5c4ed704483330108fe4d366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 699
+        width: 222
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f96774e65b65478975d1fceccfb6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 379
+        width: 212
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885860c05be78da4b969903bf211c804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 379
+        width: 222
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91385e4acc7615c49bf20ecb4f802a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 379
+        width: 232
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118970a3570ab9e4cbf5c21d56f7faf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 222
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7464de2530e63947b8392ac6320937d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReptarDeLado_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 59
+        width: 212
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e013be6186eb49b3554bd42a75924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
