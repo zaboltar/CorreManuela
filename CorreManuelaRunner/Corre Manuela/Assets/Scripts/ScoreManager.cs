@@ -15,6 +15,8 @@ public class ScoreManager : MonoBehaviour {
 
 	public bool scoreIncreasing; 
 
+	public bool shouldDouble;
+
 	// Use this for initialization
 	void Start () {
 		if (PlayerPrefs.HasKey("Highscore")){
@@ -40,7 +42,12 @@ public class ScoreManager : MonoBehaviour {
 
 	}
 
-	public void AddScore (int pointToAdd) {
+	public void AddScore (int pointToAdd) 
+	{
+		if (shouldDouble)
+		{
+			pointToAdd = pointToAdd *2;
+		}
 		scoreCount += pointToAdd;
 	}
 

@@ -17,6 +17,8 @@ public class GameManager : MonoBehaviour {
 
 	public AudioSource happyStartSound;
 
+	public bool powerUpReset;
+
 	// Use this for initialization
 	void Start () {
 		platformStartPoint = platformGenerator.position;
@@ -54,6 +56,8 @@ public class GameManager : MonoBehaviour {
 
 		theScoreMan.scoreCount = 0;
 		theScoreMan.scoreIncreasing = true;
+
+		powerUpReset = true;
 	}
 
 	/* public IEnumerator RestartGameCo() {
