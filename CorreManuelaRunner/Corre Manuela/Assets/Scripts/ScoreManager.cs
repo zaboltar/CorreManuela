@@ -17,7 +17,7 @@ public class ScoreManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		if (PlayerPrefs.HasKey("Highscore") != null){
+		if (PlayerPrefs.HasKey("Highscore")){
 			highScoreCount = PlayerPrefs.GetFloat("Highscore");
 		}
 	}
@@ -28,8 +28,6 @@ public class ScoreManager : MonoBehaviour {
 		if (scoreIncreasing){
 			scoreCount += pointsPerSecond * Time.deltaTime;
 		}
-
-		
 
 		if (scoreCount > highScoreCount) {
 			highScoreCount = scoreCount;

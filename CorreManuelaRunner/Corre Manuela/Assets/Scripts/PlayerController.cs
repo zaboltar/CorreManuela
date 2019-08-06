@@ -12,6 +12,10 @@ public class PlayerController : MonoBehaviour {
 	private float speedMilestoneCount;
 	public float jumpForce;
 	public float jumpTime;
+	
+	private bool stoppedJumping;
+	private bool canDoubleJump;
+
 	private float speedIncreaseMilestoneStore;
 	private float jumpTimeCounter;
 	private Rigidbody2D myRB;
@@ -36,6 +40,7 @@ public class PlayerController : MonoBehaviour {
 		moveSpeedStore = moveSpeed;
 		speedMilestoneCountStore = speedMilestoneCount;
 		speedIncreaseMilestoneStore = speedIncreaseMilestone;
+		stoppedJumping = true;
 	}
 	
 	
@@ -49,7 +54,6 @@ public class PlayerController : MonoBehaviour {
 			speedMilestoneCount += speedIncreaseMilestone;
 
 			speedIncreaseMilestone = speedIncreaseMilestone * speedMultiplier;
-
 			moveSpeed = moveSpeed * speedMultiplier;
 		}
 
@@ -59,11 +63,20 @@ public class PlayerController : MonoBehaviour {
 
 			if (grounded) {
 				myRB.velocity = new Vector2(myRB.velocity.x, jumpForce);
+				stoppedJumping = false;
+			}
+
+			if (!grounded && canDoubleJump)
+			{
+				myRB.velocity = new Vector2(myRB.velocity.x, jumpForce);
+				jumpTimeCounter = jumpTime;
+				stoppedJumping = false;
+				canDoubleJump = false;
 			}
 			
 		}
 
-		if (Input.GetKey(KeyCode.Space) || Input.GetMouseButton(0)){
+		if ((Input.GetKey(KeyCode.Space) || Input.GetMouseButton(0)) && !stoppedJumping ) {
 			if (jumpTimeCounter > 0) {
 				myRB.velocity = new Vector2(myRB.velocity.x, jumpForce);
 				jumpTimeCounter -= Time.deltaTime;
@@ -72,10 +85,12 @@ public class PlayerController : MonoBehaviour {
 
 		if (Input.GetKeyUp(KeyCode.Space) || Input.GetMouseButtonUp(0)) {
 			jumpTimeCounter = 0;
+			stoppedJumping = true;
 		}
 
 		if (grounded) {
 			jumpTimeCounter = jumpTime;
+			canDoubleJump = true;
 		}
 
 		myAnimator.SetFloat("Speed", myRB.velocity.x);
