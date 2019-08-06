@@ -1,7 +1,95 @@
 fileFormatVersion: 2
 guid: e7129c027ab419946b61588891d98c59
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: "BabosaRartra_Transformaci\xF3n_0"
+    21300002: "BabosaRartra_Transformaci\xF3n_1"
+    21300004: "BabosaRartra_Transformaci\xF3n_2"
+    21300006: "BabosaRartra_Transformaci\xF3n_3"
+    21300008: "BabosaRartra_Transformaci\xF3n_4"
+    21300010: "BabosaRartra_Transformaci\xF3n_5"
+    21300012: "BabosaRartra_Transformaci\xF3n_6"
+    21300014: "BabosaRartra_Transformaci\xF3n_7"
+    21300016: "BabosaRartra_Transformaci\xF3n_8"
+    21300018: "BabosaRartra_Transformaci\xF3n_9"
+    21300020: "BabosaRartra_Transformaci\xF3n_10"
+    21300022: "BabosaRartra_Transformaci\xF3n_11"
+    21300024: "BabosaRartra_Transformaci\xF3n_12"
+    21300026: "BabosaRartra_Transformaci\xF3n_13"
+    21300028: "BabosaRartra_Transformaci\xF3n_14"
+    21300030: "BabosaRartra_Transformaci\xF3n_15"
+    21300032: "BabosaRartra_Transformaci\xF3n_16"
+    21300034: "BabosaRartra_Transformaci\xF3n_17"
+    21300036: "BabosaRartra_Transformaci\xF3n_18"
+    21300038: "BabosaRartra_Transformaci\xF3n_19"
+    21300040: "BabosaRartra_Transformaci\xF3n_20"
+    21300042: "BabosaRartra_Transformaci\xF3n_21"
+    21300044: "BabosaRartra_Transformaci\xF3n_22"
+    21300046: "BabosaRartra_Transformaci\xF3n_23"
+    21300048: "BabosaRartra_Transformaci\xF3n_24"
+    21300050: "BabosaRartra_Transformaci\xF3n_25"
+    21300052: "BabosaRartra_Transformaci\xF3n_26"
+    21300054: "BabosaRartra_Transformaci\xF3n_27"
+    21300056: "BabosaRartra_Transformaci\xF3n_28"
+    21300058: "BabosaRartra_Transformaci\xF3n_29"
+    21300060: "BabosaRartra_Transformaci\xF3n_30"
+    21300062: "BabosaRartra_Transformaci\xF3n_31"
+    21300064: "BabosaRartra_Transformaci\xF3n_32"
+    21300066: "BabosaRartra_Transformaci\xF3n_33"
+    21300068: "BabosaRartra_Transformaci\xF3n_34"
+    21300070: "BabosaRartra_Transformaci\xF3n_35"
+    21300072: "BabosaRartra_Transformaci\xF3n_36"
+    21300074: "BabosaRartra_Transformaci\xF3n_37"
+    21300076: "BabosaRartra_Transformaci\xF3n_38"
+    21300078: "BabosaRartra_Transformaci\xF3n_39"
+    21300080: "BabosaRartra_Transformaci\xF3n_40"
+    21300082: "BabosaRartra_Transformaci\xF3n_41"
+    21300084: "BabosaRartra_Transformaci\xF3n_42"
+    21300086: "BabosaRartra_Transformaci\xF3n_43"
+    21300088: "BabosaRartra_Transformaci\xF3n_44"
+    21300090: "BabosaRartra_Transformaci\xF3n_45"
+    21300092: "BabosaRartra_Transformaci\xF3n_46"
+    21300094: "BabosaRartra_Transformaci\xF3n_47"
+    21300096: "BabosaRartra_Transformaci\xF3n_48"
+    21300098: "BabosaRartra_Transformaci\xF3n_49"
+    21300100: "BabosaRartra_Transformaci\xF3n_50"
+    21300102: "BabosaRartra_Transformaci\xF3n_51"
+    21300104: "BabosaRartra_Transformaci\xF3n_52"
+    21300106: "BabosaRartra_Transformaci\xF3n_53"
+    21300108: "BabosaRartra_Transformaci\xF3n_54"
+    21300110: "BabosaRartra_Transformaci\xF3n_55"
+    21300112: "BabosaRartra_Transformaci\xF3n_56"
+    21300114: "BabosaRartra_Transformaci\xF3n_57"
+    21300116: "BabosaRartra_Transformaci\xF3n_58"
+    21300118: "BabosaRartra_Transformaci\xF3n_59"
+    21300120: "BabosaRartra_Transformaci\xF3n_60"
+    21300122: "BabosaRartra_Transformaci\xF3n_61"
+    21300124: "BabosaRartra_Transformaci\xF3n_62"
+    21300126: "BabosaRartra_Transformaci\xF3n_63"
+    21300128: "BabosaRartra_Transformaci\xF3n_64"
+    21300130: "BabosaRartra_Transformaci\xF3n_65"
+    21300132: "BabosaRartra_Transformaci\xF3n_66"
+    21300134: "BabosaRartra_Transformaci\xF3n_67"
+    21300136: "BabosaRartra_Transformaci\xF3n_68"
+    21300138: "BabosaRartra_Transformaci\xF3n_69"
+    21300140: "BabosaRartra_Transformaci\xF3n_70"
+    21300142: "BabosaRartra_Transformaci\xF3n_71"
+    21300144: "BabosaRartra_Transformaci\xF3n_72"
+    21300146: "BabosaRartra_Transformaci\xF3n_73"
+    21300148: "BabosaRartra_Transformaci\xF3n_74"
+    21300150: "BabosaRartra_Transformaci\xF3n_75"
+    21300152: "BabosaRartra_Transformaci\xF3n_76"
+    21300154: "BabosaRartra_Transformaci\xF3n_77"
+    21300156: "BabosaRartra_Transformaci\xF3n_78"
+    21300158: "BabosaRartra_Transformaci\xF3n_79"
+    21300160: "BabosaRartra_Transformaci\xF3n_80"
+    21300162: "BabosaRartra_Transformaci\xF3n_81"
+    21300164: "BabosaRartra_Transformaci\xF3n_82"
+    21300166: "BabosaRartra_Transformaci\xF3n_83"
+    21300168: "BabosaRartra_Transformaci\xF3n_84"
+    21300170: "BabosaRartra_Transformaci\xF3n_85"
+    21300172: "BabosaRartra_Transformaci\xF3n_86"
+    21300174: "BabosaRartra_Transformaci\xF3n_87"
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -45,7 +133,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -82,7 +170,1767 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_0"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215d97c4e6b6844ca27f80fc4e03cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_1"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81e259146ad9b40ba84443e0ce6891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_2"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092423f14ec0624db4f69fbe820149a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_3"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ce462bd9436449b6b22b5c82a69e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_4"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35193772385230b49895f18d9da9c471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_5"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f5b18e8c418f141abfa8750aed1034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_6"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086c9b078c10664c83639c53008fda2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_7"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e911da89904612941b76b029cf9e528c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_8"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a0e8afc22122499e6948a8f3e9dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_9"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 262
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f8ed01eb70784c8407451a2bde482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_10"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 262
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023b1ee765767e4b824f93a4daaa8f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_11"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 262
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e6f6c0533ffc498d380c01a394f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_12"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 262
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c822d3b8108d947b2e803a33fe3d07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_13"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 262
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db61cd6bb6fce04e9243d232d8ccf66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_14"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 262
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d309920e4a1a046ac84c2669586c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_15"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 262
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fb57bf5f4b0b7498436b6016c02da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_16"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 262
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d77affe858a204bbdfe406427639d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_17"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 262
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ab22325f6235438cb03dfa505bee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_18"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d592d67b4ca1db14fa6dd6b20e735f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_19"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a263889c32c75c42a1a752e8dfbefae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_20"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d75c5a8406fbf45a3bba18a8b2837e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_21"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a52e45899f9141853573ca22c77b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_22"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dcdf20664a7af44817c0fd48bfa072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_23"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 230
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097332298411c840bfccedfbfca9b9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_24"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3f4cefb27dc254e9581b9c68db7308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_25"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d6bd92e1661be46ab3f0f8db10895e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_26"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894e69cb1797eb4c9527366f091842d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_27"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034157cd9aa1f4446a07b044625b6ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_28"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d91738b05017df42a17df398e13b18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_29"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001db175e0e6774b8659302d05535c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_30"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402d018281d2384dae8acf4267f18dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_31"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956a35a75823a642ab8792c4ac3781f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_32"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc351de99a008034ead930f9578190f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_33"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3d48201b123ae4ba2807548593b24d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_34"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2ef8f36a6d894db8c3a93ac80a49d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_35"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a6537b8fa113459eab5ec6b07a7c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_36"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 198
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dacf4f4ea71c84439d1fb4f2aaa89f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_37"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b079790477e4f40bf0f5ee12d7f1ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_38"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b789908731ca5c245b3f95fe63083d08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_39"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adeb6fddbaefd44fad727ccf2758e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_40"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf02d7bf2b97a4ca0b10ba0d7cb5cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_41"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae279c8460f06447bce0cbbe17d91fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_42"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06ad6c61600884999f463bbbb44767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_43"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f35456f3430804282829aec6b033e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_44"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 166
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed2973275341641bbed2c02f7feaca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_45"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 166
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bfd8c4f39565749acca8ed248dd6d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_46"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3937add865a41449f4c8df9e183b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_47"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e36e2c855ad9344ab2503fc52d1ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_48"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 134
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00140738446702b468c5e3a5773af1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_49"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6d44aa4f240e4ab971cb74cc36d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_50"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21d3a39507e7e4c873632248bdc4e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_51"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e754deb1cbb447902dd27e0e27c91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_52"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 134
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1f7373de6e62f4ea207cb08745cbf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_53"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 134
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6fe4a1d575de047b618a562c569031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_54"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 134
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab570cce59856c48b25d90fd33bea65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_55"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6f76b7909d3d4badc3f34dafd2c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_56"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4eea29ba84e74478ea3d198e63bc36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_57"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d5ccf5903909419d2cd3448753830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_58"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e35a543f95d1b428a530287cff5804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_59"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 102
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c939b58e124c347a830695683058b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_60"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 102
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fc40ac8da6224ab840de204a2ba0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_61"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68c10b9a9760545b4f53cc6126e1b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_62"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeed3d5a53746c4d94589ac2177fd7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_63"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de152af6ca5f844895f6180ac7bf4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_64"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02245174f7b1fc4081d60254268b822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_65"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e408c367584545b0e7139f2ed9d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_66"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc872c7920e4c644b8a4ee04ce72648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_67"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b6ce4c8f89e54c9416b0a9c7c6088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_68"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdc2274ed554ba4ab3046bd2b0d86f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_69"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d477732b4bd29438e47ae11e7500f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_70"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c382c4986af446b2c769464a7016d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_71"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46e4b107211e2545886893dc978c85b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_72"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 70
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5289bad7dca1ab409140d8b8fa0c8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_73"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f91c86547054a48a0560a386e20747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_74"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49910e51b98964245b9b7ab0142e53ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_75"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864bc01b76ed368449ffda7a83e08740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_76"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fdc1c86a6494b488641f18020b2d33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_77"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea1a42a329f2c749a4444d4e56fece4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_78"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123254645acdb754284173b3c30a6687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_79"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cc9aca0b41fa34983c700f991df846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_80"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4472461919fa40b74fa82c41e8558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_81"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579c6ba147a72d48b1b3cbfad431502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_82"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22dfa9a671b9134ab7f96d1d4bee34e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_83"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9705778875e49d049a0d556ad8a93f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_84"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b43269362d8d2428b626f3fee39b1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_85"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a6561da6b9b649b57c3ebb5838357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_86"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43741b43742f8749bee1cfcee1b9e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BabosaRartra_Transformaci\xF3n_87"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f3e5e1072ecb54494e085993ba29a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
