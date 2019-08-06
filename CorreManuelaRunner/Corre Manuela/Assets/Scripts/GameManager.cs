@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour {
 
+	public GameObject pausebutton;
 	public Transform platformGenerator;
 	private Vector3 platformStartPoint;
 	public PlayerController thePlayer;
@@ -13,6 +14,8 @@ public class GameManager : MonoBehaviour {
 	private ScoreManager theScoreMan;
 
 	public DeathMenu theDeathScreen;
+
+	public AudioSource happyStartSound;
 
 	// Use this for initialization
 	void Start () {
@@ -29,14 +32,16 @@ public class GameManager : MonoBehaviour {
 	public void RestartGame () {
 		theScoreMan.scoreIncreasing = false;
 		thePlayer.gameObject.SetActive(false);
-
+		pausebutton.gameObject.SetActive(false);
 		theDeathScreen.gameObject.SetActive(true);
 		//StartCoroutine ("RestartGameCo"); 	
 	}
 
 	public void Reset()
 	{
+		happyStartSound.Play();
 		theDeathScreen.gameObject.SetActive(false);
+		pausebutton.gameObject.SetActive(true);
 		platformList = FindObjectsOfType<PlatormDestroyer>();
 		for (int i = 0; i < platformList.Length; i++) 
 		{
