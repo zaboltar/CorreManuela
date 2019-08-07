@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PowerUps : MonoBehaviour
 {
+   
     public bool doublePoints;
     public bool safeMode;
 
@@ -45,6 +46,7 @@ public class PowerUps : MonoBehaviour
     {
         if (other.name == "Player")
         {
+            
             thePowerUpManager.ActivatePowerUp(doublePoints, safeMode, powerUpLength);
         }
         gameObject.SetActive(false);

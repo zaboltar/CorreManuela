@@ -715,7 +715,7 @@ MonoBehaviour:
   spikePool: {fileID: 933513927}
   powerUpHeight: 4
   powerUpPool: {fileID: 2002872104}
-  powerUpThreshold: 10
+  powerUpThreshold: 75
 --- !u!4 &413902002
 Transform:
   m_ObjectHideFlags: 0
@@ -1501,7 +1501,6 @@ GameObject:
   - component: {fileID: 951875853}
   - component: {fileID: 951875854}
   - component: {fileID: 951875855}
-  - component: {fileID: 951875856}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -1664,19 +1663,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &951875856
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 951875849}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 415c89e7c443ad244a996652be8b80f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pwrUp: {fileID: 1889043762}
 --- !u!1 &958263120
 GameObject:
   m_ObjectHideFlags: 0
@@ -1929,6 +1915,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98d06a9ce812e734ca8f713082edb70a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pwrUpSFX: {fileID: 1889043762}
 --- !u!4 &1122725542
 Transform:
   m_ObjectHideFlags: 0

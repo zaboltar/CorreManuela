@@ -7,6 +7,8 @@ public class PowerUpManager : MonoBehaviour
     private bool doublePoints;
     private bool safeMode;
 
+    public AudioSource pwrUpSFX;
+
     private bool powerUpActive;
     private float powerUpLengthCounter;
 
@@ -67,6 +69,8 @@ public class PowerUpManager : MonoBehaviour
 
     public void ActivatePowerUp(bool points, bool safe, float time)
     {
+        pwrUpSFX.Play();
+        
         doublePoints = points;
         safeMode = safe;
         powerUpLengthCounter = time;
