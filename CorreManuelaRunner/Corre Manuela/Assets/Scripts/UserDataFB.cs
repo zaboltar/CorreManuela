@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UserDataFB : MonoBehaviour
+[SerializeField]
+public class UserDataFB
 {
     public string userName;
     public float userScore;

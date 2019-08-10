@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Firebase;
+using Firebase.Unity.Editor;
 
 public class GameManager : MonoBehaviour {
 
@@ -18,13 +20,19 @@ public class GameManager : MonoBehaviour {
 	public AudioSource happyStartSound;
 
 	public bool powerUpReset;
+    private RankingsManager rankingManager;
 
 	// Use this for initialization
 	void Start () {
-		platformStartPoint = platformGenerator.position;
+        // Set this before calling into the realtime database.
+        FirebaseApp.DefaultInstance.SetEditorDatabaseUrl("https://corre-manuela.firebaseio.com");
+
+        platformStartPoint = platformGenerator.position;
 		playerStartPoint = thePlayer.transform.position;
 		theScoreMan = FindObjectOfType<ScoreManager>();
-	}
+        rankingManager = FindObjectOfType<RankingsManager>();
+        
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -33,7 +41,8 @@ public class GameManager : MonoBehaviour {
 
 	public void RestartGame () {
 		theScoreMan.scoreIncreasing = false;
-		thePlayer.gameObject.SetActive(false);
+        rankingManager.getAllUserScores();
+        thePlayer.gameObject.SetActive(false);
 		pausebutton.gameObject.SetActive(false);
 		theDeathScreen.gameObject.SetActive(true);
 		//StartCoroutine ("RestartGameCo"); 	

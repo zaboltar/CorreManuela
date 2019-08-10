@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "51194744952-kruoa1um2vs5pqq1r3fome0mdj1jh9it.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXE2ILob_ZwauA84iPy129A23feLXIhgM"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:51194744952:ios:0650dcfa0654e928", 
+        "android_client_info": {
+          "package_name": "com.kingsfoil.manuela"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "corre-manuela.appspot.com", 
+    "project_id": "corre-manuela", 
+    "firebase_url": "https://corre-manuela.firebaseio.com", 
+    "project_number": "51194744952"
+  }
+}

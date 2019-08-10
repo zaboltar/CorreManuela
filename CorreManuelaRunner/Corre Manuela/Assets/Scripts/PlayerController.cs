@@ -108,10 +108,15 @@ public class PlayerController : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D other) {
 		if (other.gameObject.tag == "KillBox") {
+            // Server (revisar si existen). 
             float highscore = PlayerPrefs.GetFloat("Highscore");
-            UserDataFB user = new UserDataFB("DummyUser", highscore);
-            //RestClient.Post("https://corre-manuela.firebaseio.com/.json", user);
-            RestClient.Put("https://corre-manuela.firebaseio.com/userScores/"+user.userName+".json", user);
+            string userName = PlayerPrefs.GetString("userName");
+
+            UserDataFB user = new UserDataFB(userName, highscore);
+            RestClient.Post("https://corre-manuela.firebaseio.com/userScores/.json", user).Then(response=> {
+                Debug.Log(response.Data);
+            });
+
             theGameManager.RestartGame();
 			moveSpeed = moveSpeedStore;
 			speedMilestoneCount = speedMilestoneCountStore;
